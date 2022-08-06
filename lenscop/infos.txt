@@ -1,0 +1,14 @@
+busca de informações no banco de dados
+
+serão 4 inputs
+
+a lente prime so para grau esferico
+atende graus entre: -3 e -12
+porem se o cliente tiver grau cilindrico ela somente vai atender entre -3 e -10
+
+lente vision para quem tem de 0 a -15 para eferico e -6 para cilindrico.
+
+comparar e dar a escolha para o cliente
+pois ate -12 de grau esferico as duas lentes suportam 
+
+e entre -2 de ciclindrico pois as duas suportam e a vision suporta ate -6
